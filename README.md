@@ -20,6 +20,9 @@ To extract the 3D facial wound fill, please use the notebook
 get_filling_extraction.ipynb
 ```
 
+## Dataset
+https://drive.google.com/drive/folders/1SKj-lMPDRWKS1DQRqUmiuoBU7hKdx_hU?usp=sharing
+
 ## References
 
 ```
